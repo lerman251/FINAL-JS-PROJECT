@@ -1,0 +1,83 @@
+#logo {
+    max-width: 75px;
+}
+.nav-link:hover{
+    background-color: rgba(255, 255, 255, 0.904);    
+}
+#card1 {
+    background-image: url(starryai-0-485745849-1-0-photo\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#card2 {
+    background-image: url(starryai-0-485745849-1-0-photo\ \(2\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#card3 {
+    background-image: url(starryai-0-485745849-1-0-photo\ \(3\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#cartimg {
+    max-width: 50px;
+}
+.nav-item {
+    padding: 1.5em;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: rgb(55, 55, 255);
+}
+.nav-item:hover {
+    background-color: rgb(37, 99, 235);
+}
+.nav-link:hover {
+    background-color: rgb(37, 99, 235);
+}
+.card {
+    height: 750px;
+}
+#price {
+    padding-left: 3rem;
+    padding-top: 90%;
+}
+#buy {
+    margin-left: 3rem;
+    background: #6dffdf;
+    color: rgb(20, 184, 166);
+    border: none;
+}
+#div1 {
+    background: rgb(17, 94, 89);
+}
+#coolpic {
+    background-image: url(Images\_ca089bcc-c73e-4000-8b49-650e59d369e7.png);
+}
+#ends {
+    text-align: center;
+    border-bottom: 5px solid rgb(108, 45, 120);
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+#pyear {
+    font-size: small;
+    margin-left: 10px;
+}
+#finishcheck {
+    background-color: rgb(20, 184, 166);
+    text-decoration: none;
+    color: white;
+    
+}
+#total {
+    text-align: right;
+    
+}
+#bottom {
+    
+    border-top: 5px solid rgb(108, 45, 120);
+}
+#topbottom {
+    border-bottom: 5px solid rgb(108, 45, 120);
+    
+}

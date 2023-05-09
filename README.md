@@ -64,7 +64,7 @@ Using the wireframe from the Figma link below create the website. The client (Ze
   
   - A drop-down box to pick a shoe size (7-16) (30 points)
   
-  - A drop-down box to pick how many years of insurance a customer wants on thier product (0-3 years) (30 points)
+  - A drop-down box to pick how many years of insurance a customer wants on their product (0-3 years) (30 points)
     
     - For every year of Insurance picked it should at $20.00 to the Total Price
   
